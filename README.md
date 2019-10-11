@@ -4,7 +4,7 @@ WordCamp Bratislava 2019 - Docker pre každého
 Naklonovanie repozitára so submodulom
 
 `git clone --recursive https://github.com/FeroVolar/wcba-2019-examples`
----
+
 Vytvorenie kontajnerov
 
 `docker-compose up -d`
