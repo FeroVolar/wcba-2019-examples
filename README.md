@@ -10,7 +10,7 @@ Naklonovanie repozitára so submodulom Twenty Twenty
 
 Vytvorenie kontajnerov
 
-  docker-compose up -d
+`docker-compose up -d`
 
 Stopnutie kontajnerov
 
