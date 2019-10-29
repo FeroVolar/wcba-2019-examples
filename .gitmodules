@@ -1,0 +1,7 @@
+[submodule "demo-1/wp-content/themes/twentytwenty"]
+	path = demo-1/wp-content/themes/twentytwenty
+	url = https://github.com/WordPress/twentytwenty
+
+[submodule "demo-2/wp-content/themes/twentytwenty"]
+	path = demo-2/wp-content/themes/twentytwenty
+	url = https://github.com/WordPress/twentytwenty
